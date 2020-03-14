@@ -132,7 +132,7 @@ class LED(threading.Thread):
         self.white = white_pin
         self.blue = blue_pin
         self.door = door
-        self.db = Database()
+        
         ## GPIO SETUP
         GPIO.setwarnings(False)
         GPIO.setmode(GPIO.BOARD)
@@ -141,16 +141,19 @@ class LED(threading.Thread):
         GPIO.setup(self.red, GPIO.OUT)
         GPIO.setup(self.blue, GPIO.OUT)
 
+        self.db = Database()
+        
         ## Add time var to speed up responce, compare to time.now
 
     def run(self):
         global end_Thread
-
+            
+        # Set all LED's OFF
         self.red_off()
         self.green_off()
         self.white_off()
         self.blue_off()
-       
+        
         while (end_Thread == 0):
             self.update()
             
