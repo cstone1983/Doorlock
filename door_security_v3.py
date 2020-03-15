@@ -9,6 +9,7 @@ from mfrc522 import SimpleMFRC522
 import I2C_LCD_driver
 import paho.mqtt.client as mqtt
 
+door = "Front"
 
 global end_Thread ## Used to end all threads on exit
 
@@ -17,7 +18,7 @@ red_pin = 38
 green_pin = 40
 white_pin = 36
 blue_pin = 32
-door = "Front"
+
 end_Thread=0
 
 
