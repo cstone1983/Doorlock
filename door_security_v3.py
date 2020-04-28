@@ -722,7 +722,7 @@ def Alert(body):
         conn.getresponse()
         
     except:
-        log("warning", "Error Sending Alert " + str(body)         
+        log("warning", "Error Sending Alert " + str(body))         
         
     else:
         log("debug", "Alert Sent - " + str(body))
