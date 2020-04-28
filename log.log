@@ -1,0 +1,231 @@
+root - INFO - Apr-23-08:10:15 - <Menu_System(Thread-1, initial)> - Thread Started
+root - INFO - Apr-23-08:10:15 - <Cards(Thread-2, started 1963979872)> - Thread Started
+root - INFO - Apr-23-08:10:15 - <LED(Thread-3, started 1953494112)> - Thread Started
+root - INFO - Apr-23-08:10:16 - <LED(Thread-3, started 1953494112)> - mode = 0
+root - INFO - Apr-23-08:10:16 - <lcd_status(Thread-4, started 1943008352)> - Thread Started
+root - INFO - Apr-23-08:10:16 - <Door(Thread-5, initial)> - Thread Started
+root - INFO - Apr-23-08:10:16 - <Door(Thread-5, started 1922036832)> - Door Closed
+root - INFO - Apr-23-08:10:16 - /door/front/mode b'Clear'
+root - INFO - Apr-23-08:10:16 - /door/front/status b'locked'
+root - INFO - Apr-23-08:10:16 - <lcd_status(Thread-4, started 1943008352)> - mode = 0
+root - INFO - Apr-23-08:10:16 - Door Lock Started
+root - INFO - Apr-23-08:10:53 - <Menu_System(Thread-1, initial)> - Thread Started
+root - INFO - Apr-23-08:10:53 - <Cards(Thread-2, started 1963979872)> - Thread Started
+root - INFO - Apr-23-08:10:53 - <LED(Thread-3, started 1953494112)> - Thread Started
+root - INFO - Apr-23-08:10:53 - <LED(Thread-3, started 1953494112)> - mode = 0
+root - INFO - Apr-23-08:10:53 - <lcd_status(Thread-4, started 1943008352)> - Thread Started
+root - INFO - Apr-23-08:10:53 - <Door(Thread-5, initial)> - Thread Started
+root - INFO - Apr-23-08:10:53 - <Door(Thread-5, started 1922036832)> - Door Closed
+root - INFO - Apr-23-08:10:53 - /door/front/mode b'Clear'
+root - INFO - Apr-23-08:10:53 - /door/front/status b'locked'
+root - INFO - Apr-23-08:10:54 - <lcd_status(Thread-4, started 1943008352)> - mode = 0
+root - INFO - Apr-23-08:10:54 - Door Lock Started
+root - INFO - Apr-23-08:11:42 - <Menu_System(Thread-1, started 1973470304)> - Open Action
+root - INFO - Apr-23-08:11:43 - <LED(Thread-3, started 1953494112)> - mode = 1
+root - INFO - Apr-23-08:11:43 - <Menu_System(Thread-1, started 1973470304)> - Opening Door 10 seconds
+root - INFO - Apr-23-08:11:43 - <Door(Thread-5, started 1922036832)> - Entering Door Open Loop ending at 1587687113.2092617 end_time 1587687113.2092617 self.now 1587687103.2092617now 1587687103.285741
+root - INFO - Apr-23-08:11:43 - <Door(Thread-5, started 1922036832)> - Door Opened
+root - INFO - Apr-23-08:11:43 - /door/front/status b'unlocked'
+root - INFO - Apr-23-08:11:53 - <LED(Thread-3, started 1953494112)> - mode = 0
+root - INFO - Apr-23-08:11:53 - <LED(Thread-3, started 1953494112)> - mode = 0
+root - INFO - Apr-23-08:11:53 - <LED(Thread-3, started 1953494112)> - mode = 0
+root - INFO - Apr-23-08:11:53 - <LED(Thread-3, started 1953494112)> - mode = 0
+root - INFO - Apr-23-08:11:54 - <LED(Thread-3, started 1953494112)> - mode = 0
+root - INFO - Apr-23-08:11:54 - <Door(Thread-5, started 1922036832)> - Door Closed
+root - INFO - Apr-23-08:11:54 - /door/front/status b'locked'
+root - INFO - Apr-23-08:11:54 - <lcd_status(Thread-4, started 1943008352)> - mode = 0
+root - INFO - Apr-23-08:14:31 - <Menu_System(Thread-1, initial)> - Thread Started
+root - INFO - Apr-23-08:14:31 - <Cards(Thread-2, started 1963979872)> - Thread Started
+root - INFO - Apr-23-08:14:31 - <LED(Thread-3, started 1953494112)> - Thread Started
+root - INFO - Apr-23-08:14:31 - <LED(Thread-3, started 1953494112)> - mode = 0
+root - INFO - Apr-23-08:14:31 - <lcd_status(Thread-4, started 1943008352)> - Thread Started
+root - INFO - Apr-23-08:14:31 - <Door(Thread-5, initial)> - Thread Started
+root - INFO - Apr-23-08:14:31 - <Door(Thread-5, started 1922036832)> - Door Closed
+root - INFO - Apr-23-08:14:31 - /door/front/mode b'Clear'
+root - INFO - Apr-23-08:14:31 - <lcd_status(Thread-4, started 1943008352)> - mode = 0
+root - INFO - Apr-23-08:14:31 - /door/front/status b'locked'
+root - INFO - Apr-23-08:14:32 - Alert - Door Lock Started
+root - INFO - Apr-23-08:16:37 - <Menu_System(Thread-1, initial)> - Thread Started
+root - INFO - Apr-23-08:16:37 - <Cards(Thread-2, started 1962931296)> - Thread Started
+root - INFO - Apr-23-08:16:37 - <LED(Thread-3, started 1952445536)> - Thread Started
+root - INFO - Apr-23-08:16:37 - <LED(Thread-3, started 1952445536)> - mode = 0
+root - INFO - Apr-23-08:16:37 - <lcd_status(Thread-4, started 1941959776)> - Thread Started
+root - INFO - Apr-23-08:16:37 - <Door(Thread-5, initial)> - Thread Started
+root - INFO - Apr-23-08:16:37 - <Door(Thread-5, started 1920988256)> - Door Closed
+root - INFO - Apr-23-08:16:37 - /door/front/mode b'Clear'
+root - INFO - Apr-23-08:16:37 - /door/front/status b'locked'
+root - INFO - Apr-23-08:16:37 - <lcd_status(Thread-4, started 1941959776)> - mode = 0
+root - INFO - Apr-23-08:16:37 - Alert - Door Lock Started
+root - INFO - Apr-23-08:16:40 - <Menu_System(Thread-1, started 1973269600)> - Open Action
+root - INFO - Apr-23-08:16:40 - <Menu_System(Thread-1, started 1973269600)> - Opening Door 10 seconds
+root - INFO - Apr-23-08:16:41 - <Door(Thread-5, started 1920988256)> - Entering Door Open Loop ending at 1587687411.0360308 end_time 1587687411.0360308 self.now 1587687401.0360308now 1587687401.1565204
+root - INFO - Apr-23-08:16:41 - <Door(Thread-5, started 1920988256)> - Door Opened
+root - INFO - Apr-23-08:16:41 - /door/front/status b'unlocked'
+root - INFO - Apr-23-08:16:41 - <LED(Thread-3, started 1952445536)> - mode = 1
+root - INFO - Apr-23-08:16:41 - Alert - Door Opened for - 9 sec
+root - INFO - Apr-23-08:16:51 - <Door(Thread-5, started 1920988256)> - Door Closed
+root - INFO - Apr-23-08:16:51 - /door/front/status b'locked'
+root - INFO - Apr-23-08:16:52 - <LED(Thread-3, started 1952445536)> - mode = 0
+root - INFO - Apr-23-08:16:52 - <LED(Thread-3, started 1952445536)> - mode = 0
+root - INFO - Apr-23-08:16:52 - <LED(Thread-3, started 1952445536)> - mode = 0
+root - INFO - Apr-23-08:16:52 - <LED(Thread-3, started 1952445536)> - mode = 0
+root - INFO - Apr-23-08:16:52 - <LED(Thread-3, started 1952445536)> - mode = 0
+root - INFO - Apr-23-08:16:52 - <lcd_status(Thread-4, started 1941959776)> - mode = 0
+root - INFO - Apr-23-08:20:00 - <Menu_System(Thread-1, initial)> - Thread Started
+root - INFO - Apr-23-08:20:00 - <Cards(Thread-2, started 1962931296)> - Thread Started
+root - INFO - Apr-23-08:20:00 - <LED(Thread-3, started 1952445536)> - Thread Started
+root - INFO - Apr-23-08:20:00 - <LED(Thread-3, started 1952445536)> - mode = 0
+root - INFO - Apr-23-08:20:00 - <lcd_status(Thread-4, started 1941959776)> - Thread Started
+root - INFO - Apr-23-08:20:00 - <Door(Thread-5, initial)> - Thread Started
+root - INFO - Apr-23-08:20:00 - <Door(Thread-5, started 1920988256)> - Door Closed
+root - INFO - Apr-23-08:20:00 - /door/front/mode b'Clear'
+root - INFO - Apr-23-08:20:00 - /door/front/status b'locked'
+root - INFO - Apr-23-08:20:00 - <lcd_status(Thread-4, started 1941959776)> - mode = 0
+root - INFO - Apr-23-08:20:01 - Alert - Door Lock Started
+root - INFO - Apr-23-08:20:04 - <Menu_System(Thread-1, started 1972847712)> - Open Action
+root - INFO - Apr-23-08:20:06 - <Menu_System(Thread-1, started 1972847712)> - Opening Door 10 seconds
+root - INFO - Apr-23-08:20:07 - <Door(Thread-5, started 1920988256)> - Entering Door Open Loop ending at 1587687616.946014 end_time 1587687616.946014 self.now 1587687606.946014now 1587687606.9960463 time open = 10
+root - INFO - Apr-23-08:20:07 - <Door(Thread-5, started 1920988256)> - Door Opened
+root - INFO - Apr-23-08:20:07 - /door/front/status b'unlocked'
+root - INFO - Apr-23-08:20:07 - <LED(Thread-3, started 1952445536)> - mode = 1
+root - INFO - Apr-23-08:20:07 - Alert - Door Opened for - 9 sec
+root - INFO - Apr-23-08:20:17 - <Door(Thread-5, started 1920988256)> - Door Closed
+root - INFO - Apr-23-08:20:17 - /door/front/status b'locked'
+root - INFO - Apr-23-08:20:17 - <LED(Thread-3, started 1952445536)> - mode = 0
+root - INFO - Apr-23-08:20:17 - <LED(Thread-3, started 1952445536)> - mode = 0
+root - INFO - Apr-23-08:20:17 - <LED(Thread-3, started 1952445536)> - mode = 0
+root - INFO - Apr-23-08:20:17 - <LED(Thread-3, started 1952445536)> - mode = 0
+root - INFO - Apr-23-08:20:18 - <LED(Thread-3, started 1952445536)> - mode = 0
+root - INFO - Apr-23-08:20:18 - <lcd_status(Thread-4, started 1941959776)> - mode = 0
+root - INFO - Apr-23-08:21:08 - <Menu_System(Thread-1, initial)> - Thread Started
+root - INFO - Apr-23-08:21:08 - <Cards(Thread-2, started 1962931296)> - Thread Started
+root - INFO - Apr-23-08:21:08 - <LED(Thread-3, started 1952445536)> - Thread Started
+root - INFO - Apr-23-08:21:08 - <LED(Thread-3, started 1952445536)> - mode = 0
+root - INFO - Apr-23-08:21:08 - <lcd_status(Thread-4, started 1941959776)> - Thread Started
+root - INFO - Apr-23-08:21:08 - <Door(Thread-5, initial)> - Thread Started
+root - INFO - Apr-23-08:21:08 - <Door(Thread-5, started 1920988256)> - Door Closed
+root - INFO - Apr-23-08:21:08 - /door/front/mode b'Clear'
+root - INFO - Apr-23-08:21:08 - /door/front/status b'locked'
+root - INFO - Apr-23-08:21:08 - <lcd_status(Thread-4, started 1941959776)> - mode = 0
+root - INFO - Apr-23-08:21:09 - Alert - Door Lock Started
+root - INFO - Apr-23-08:21:10 - <Menu_System(Thread-1, started 1972855904)> - Open Action
+root - INFO - Apr-23-08:21:13 - <Menu_System(Thread-1, started 1972855904)> - Opening Door 10 seconds
+root - INFO - Apr-23-08:21:13 - <Door(Thread-5, started 1920988256)> - Entering Door Open Loop ending at 1587687683.8709478 end_time 1587687683.8709478 self.now 1587687673.8709478now 1587687673.9225223 time open = 10
+root - INFO - Apr-23-08:21:14 - <Door(Thread-5, started 1920988256)> - Door Opened
+root - INFO - Apr-23-08:21:14 - /door/front/status b'unlocked'
+root - INFO - Apr-23-08:21:14 - <LED(Thread-3, started 1952445536)> - mode = 1
+root - INFO - Apr-23-08:21:14 - Alert - Door Opened for - 9 sec
+root - INFO - Apr-23-08:21:24 - <Door(Thread-5, started 1920988256)> - Door Closed
+root - INFO - Apr-23-08:21:24 - /door/front/status b'locked'
+root - INFO - Apr-23-08:21:24 - <LED(Thread-3, started 1952445536)> - mode = 0
+root - INFO - Apr-23-08:21:24 - <LED(Thread-3, started 1952445536)> - mode = 0
+root - INFO - Apr-23-08:21:24 - <LED(Thread-3, started 1952445536)> - mode = 0
+root - INFO - Apr-23-08:21:24 - <LED(Thread-3, started 1952445536)> - mode = 0
+root - INFO - Apr-23-08:21:24 - <lcd_status(Thread-4, started 1941959776)> - mode = 0
+root - INFO - Apr-23-08:21:24 - <LED(Thread-3, started 1952445536)> - mode = 0
+root - INFO - Apr-23-08:24:15 - <Menu_System(Thread-1, initial)> - Thread Started
+root - INFO - Apr-23-08:24:15 - <Cards(Thread-2, started 1962931296)> - Thread Started
+root - INFO - Apr-23-08:24:15 - <LED(Thread-3, started 1952445536)> - Thread Started
+root - INFO - Apr-23-08:24:15 - <LED(Thread-3, started 1952445536)> - mode = 0
+root - INFO - Apr-23-08:24:15 - <lcd_status(Thread-4, started 1941959776)> - Thread Started
+root - INFO - Apr-23-08:24:15 - <Door(Thread-5, initial)> - Thread Started
+root - INFO - Apr-23-08:24:15 - <Door(Thread-5, started 1920988256)> - Door Closed
+root - INFO - Apr-23-08:24:15 - /door/front/mode b'Clear'
+root - INFO - Apr-23-08:24:15 - /door/front/status b'locked'
+root - INFO - Apr-23-08:24:15 - <lcd_status(Thread-4, started 1941959776)> - mode = 0
+root - INFO - Apr-23-08:24:16 - Alert - Door Lock Started
+root - INFO - Apr-23-08:24:18 - <Menu_System(Thread-1, started 1973285984)> - Open Action
+root - INFO - Apr-23-08:24:27 - <Menu_System(Thread-1, started 1973285984)> - Opening Door 10 seconds
+root - INFO - Apr-23-08:24:27 - <Door(Thread-5, started 1920988256)> - Entering Door Open Loop ending at 1587687877.5606663 end_time 1587687877.5606663 self.now 1587687867.5606663now 1587687867.650103 time open = 10
+root - INFO - Apr-23-08:24:27 - <LED(Thread-3, started 1952445536)> - mode = 1
+root - INFO - Apr-23-08:24:27 - <Door(Thread-5, started 1920988256)> - Door Opened
+root - INFO - Apr-23-08:24:27 - /door/front/status b'unlocked'
+root - INFO - Apr-23-08:24:28 - Alert - Door Opened for - 10 sec
+root - INFO - Apr-23-08:24:38 - <LED(Thread-3, started 1952445536)> - mode = 0
+root - INFO - Apr-23-08:24:38 - <LED(Thread-3, started 1952445536)> - mode = 0
+root - INFO - Apr-23-08:24:38 - <LED(Thread-3, started 1952445536)> - mode = 0
+root - INFO - Apr-23-08:24:38 - <LED(Thread-3, started 1952445536)> - mode = 0
+root - INFO - Apr-23-08:24:38 - <LED(Thread-3, started 1952445536)> - mode = 0
+root - INFO - Apr-23-08:24:38 - <Door(Thread-5, started 1920988256)> - Door Closed
+root - INFO - Apr-23-08:24:38 - /door/front/status b'locked'
+root - INFO - Apr-23-08:24:38 - <lcd_status(Thread-4, started 1941959776)> - mode = 0
+root - INFO - Apr-23-08:24:39 - <Menu_System(Thread-1, started 1973285984)> - Open Action
+root - INFO - Apr-23-08:24:40 - <Menu_System(Thread-1, started 1973285984)> - Opening Door 30 seconds
+root - INFO - Apr-23-08:24:41 - <Door(Thread-5, started 1920988256)> - Entering Door Open Loop ending at 1587687910.9238079 end_time 1587687910.9238079 self.now 1587687880.9238079now 1587687881.0284784 time open = 30
+root - INFO - Apr-23-08:24:41 - <Door(Thread-5, started 1920988256)> - Door Opened
+root - INFO - Apr-23-08:24:41 - /door/front/status b'unlocked'
+root - INFO - Apr-23-08:24:41 - <LED(Thread-3, started 1952445536)> - mode = 1
+root - INFO - Apr-23-08:24:41 - Alert - Door Opened for - 30 sec
+root - INFO - Apr-23-08:25:11 - <LED(Thread-3, started 1952445536)> - mode = 0
+root - INFO - Apr-23-08:25:11 - <LED(Thread-3, started 1952445536)> - mode = 0
+root - INFO - Apr-23-08:25:11 - <LED(Thread-3, started 1952445536)> - mode = 0
+root - INFO - Apr-23-08:25:11 - <LED(Thread-3, started 1952445536)> - mode = 0
+root - INFO - Apr-23-08:25:11 - <Door(Thread-5, started 1920988256)> - Door Closed
+root - INFO - Apr-23-08:25:11 - /door/front/status b'locked'
+root - INFO - Apr-23-08:25:11 - <LED(Thread-3, started 1952445536)> - mode = 0
+root - INFO - Apr-23-08:25:11 - <lcd_status(Thread-4, started 1941959776)> - mode = 0
+root - INFO - Apr-23-08:29:49 - <Menu_System(Thread-1, initial)> - Thread Started
+root - INFO - Apr-23-08:29:49 - <Cards(Thread-2, started 1962931296)> - Thread Started
+root - INFO - Apr-23-08:29:49 - <LED(Thread-3, started 1952445536)> - Thread Started
+root - INFO - Apr-23-08:29:49 - <LED(Thread-3, started 1952445536)> - mode = 0
+root - INFO - Apr-23-08:29:49 - <lcd_status(Thread-4, started 1941959776)> - Thread Started
+root - INFO - Apr-23-08:29:49 - <Door(Thread-5, initial)> - Thread Started
+root - INFO - Apr-23-08:29:49 - <Door(Thread-5, started 1920988256)> - Door Closed
+root - INFO - Apr-23-08:29:49 - /door/front/mode b'Clear'
+root - INFO - Apr-23-08:29:49 - /door/front/status b'locked'
+root - INFO - Apr-23-08:29:49 - <lcd_status(Thread-4, started 1941959776)> - mode = 0
+root - INFO - Apr-23-08:29:49 - Alert - Door Lock Started
+root - INFO - Apr-23-08:30:11 - <Menu_System(Thread-1, initial)> - Thread Started
+root - INFO - Apr-23-08:30:11 - <Cards(Thread-2, started 1962931296)> - Thread Started
+root - INFO - Apr-23-08:30:11 - <LED(Thread-3, started 1952445536)> - Thread Started
+root - INFO - Apr-23-08:30:11 - <LED(Thread-3, started 1952445536)> - mode = 0
+root - INFO - Apr-23-08:30:12 - <lcd_status(Thread-4, started 1941959776)> - Thread Started
+root - INFO - Apr-23-08:30:12 - <Door(Thread-5, initial)> - Thread Started
+root - INFO - Apr-23-08:30:12 - <Door(Thread-5, started 1920988256)> - Door Closed
+root - INFO - Apr-23-08:30:12 - /door/front/mode b'Clear'
+root - INFO - Apr-23-08:30:12 - /door/front/status b'locked'
+root - INFO - Apr-23-08:30:12 - <lcd_status(Thread-4, started 1941959776)> - mode = 0
+root - INFO - Apr-23-08:30:12 - Alert - Door Lock Started
+root - INFO - Apr-23-08:32:59 - <Menu_System(Thread-1, initial)> - Thread Started
+root - INFO - Apr-23-08:32:59 - <Cards(Thread-2, started 1962931296)> - Thread Started
+root - INFO - Apr-23-08:32:59 - <LED(Thread-3, started 1952445536)> - Thread Started
+root - INFO - Apr-23-08:32:59 - <LED(Thread-3, started 1952445536)> - mode = 0
+root - INFO - Apr-23-08:32:59 - <lcd_status(Thread-4, started 1941959776)> - Thread Started
+root - INFO - Apr-23-08:32:59 - <Door(Thread-5, initial)> - Thread Started
+root - INFO - Apr-23-08:32:59 - <Door(Thread-5, started 1920988256)> - Door Closed
+root - INFO - Apr-23-08:32:59 - /door/front/mode b'Clear'
+root - INFO - Apr-23-08:32:59 - /door/front/status b'locked'
+root - INFO - Apr-23-08:32:59 - <lcd_status(Thread-4, started 1941959776)> - mode = 0
+root - INFO - Apr-23-08:33:00 - Alert - Door Lock Started
+root - INFO - Apr-23-08:36:46 - <Menu_System(Thread-1, initial)> - Thread Started
+root - INFO - Apr-23-08:36:46 - <Cards(Thread-2, started 1962931296)> - Thread Started
+root - INFO - Apr-23-08:36:46 - <LED(Thread-3, started 1952445536)> - Thread Started
+root - INFO - Apr-23-08:36:46 - <LED(Thread-3, started 1952445536)> - mode = 0
+root - INFO - Apr-23-08:36:46 - <lcd_status(Thread-4, started 1941959776)> - Thread Started
+root - INFO - Apr-23-08:36:46 - <Door(Thread-5, initial)> - Thread Started
+root - INFO - Apr-23-08:36:46 - <Door(Thread-5, started 1920988256)> - Door Closed
+root - INFO - Apr-23-08:36:46 - /door/front/mode b'Clear'
+root - INFO - Apr-23-08:36:46 - /door/front/status b'locked'
+root - INFO - Apr-23-08:36:46 - <lcd_status(Thread-4, started 1941959776)> - mode = 0
+root - INFO - Apr-23-08:36:46 - Alert - Door Lock Started
+root - INFO - Apr-23-08:36:54 - <Menu_System(Thread-1, initial)> - Thread Started
+root - INFO - Apr-23-08:36:54 - <Cards(Thread-2, started 1962931296)> - Thread Started
+root - INFO - Apr-23-08:36:54 - <LED(Thread-3, started 1952445536)> - Thread Started
+root - INFO - Apr-23-08:36:54 - <LED(Thread-3, started 1952445536)> - mode = 0
+root - INFO - Apr-23-08:36:54 - <lcd_status(Thread-4, started 1941959776)> - Thread Started
+root - INFO - Apr-23-08:36:54 - <Door(Thread-5, initial)> - Thread Started
+root - INFO - Apr-23-08:36:54 - <Door(Thread-5, started 1920988256)> - Door Closed
+root - INFO - Apr-23-08:36:54 - /door/front/mode b'Clear'
+root - INFO - Apr-23-08:36:54 - /door/front/status b'locked'
+root - INFO - Apr-23-08:36:54 - <lcd_status(Thread-4, started 1941959776)> - mode = 0
+root - INFO - Apr-23-08:36:55 - Alert - Door Lock Started
+root - INFO - Apr-23-08:37:01 - <Menu_System(Thread-1, started 1972896864)> - Add Card Action
+root - INFO - Apr-23-08:37:02 - <Menu_System(Thread-1, started 1972896864)> - Added Card
+root - INFO - Apr-23-08:37:02 - <LED(Thread-3, started 1952445536)> - mode = 5
+root - INFO - Apr-23-08:37:02 - <LED(Thread-3, started 1952445536)> - mode = 5
+root - INFO - Apr-23-08:37:02 - <LED(Thread-3, started 1952445536)> - mode = 5
+root - INFO - Apr-23-08:37:02 - <LED(Thread-3, started 1952445536)> - mode = 5
+root - INFO - Apr-23-08:37:08 - /door/front/mode b'close'
+root - INFO - Apr-23-08:37:08 - <LED(Thread-3, started 1952445536)> - mode = 0
+root - INFO - Apr-23-08:37:09 - <LED(Thread-3, started 1952445536)> - mode = 0
+root - INFO - Apr-23-08:37:09 - <lcd_status(Thread-4, started 1941959776)> - mode = 0
